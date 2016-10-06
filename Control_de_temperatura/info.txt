@@ -1,0 +1,5 @@
+Control de temperatura con un sistema tipo On/Off.
+Utiliza un sensor lm35, y en el pin2 de salida se conecta una resistencia de alambre para controlar su temperatura.
+
+Temperature control with a system type On/Off.
+The circuit uses an lm35 sensor, in the pin2 determined as an ouput is connected a resistence to control its temperature
