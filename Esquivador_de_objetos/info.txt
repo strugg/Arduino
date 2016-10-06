@@ -1,0 +1,3 @@
+Utiliza un sensor hc-sr04 para la deteccion de objetos, un circuito integrado L293d y dos motores DC a 5v.
+
+The circuit uses a hc-sr04 sensor for avoiding the objects, an integrated circuit L293d and 2 motors DC of 5v
